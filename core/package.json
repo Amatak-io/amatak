@@ -1,0 +1,27 @@
+{
+  "name": "@amatak/core",
+  "version": "1.0.0",
+  "description": "Amatak core | Amatak web builder with rollup.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amatak-io/amatak.git"
+  },
+  "keywords": [
+    "amatak",
+    "amatakjs",
+    "amatak",
+    "admin",
+    "amatak-vite",
+    "amatak-rollup"
+  ],
+  "author": "Rony MAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amatak-io/amatak/issues"
+  },
+  "homepage": "https://github.com/Amatak-io/amatak#readme"
+}
